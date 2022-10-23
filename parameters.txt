@@ -1,0 +1,11 @@
+#AG News (NUM_LABELD=10)
+aug=base, lr=0.001, lr_bert=5e-05, thr=0.9, lbd=0.1, mu=10
+aug=sim, lr=0.001, lr_bert=5e-05, thr=0.9, lbd=0.1, mu=20
+
+#Yahoo (NUM_LABELD=20)
+aug=base, lr=0.001, lr_bert=5e-05, thr=0.99, lbd=0.1, mu=5
+aug=sim, lr=0.001, lr_bert=5e-05, thr=0.99, lbd=0.5, mu=10
+
+#IMDB (NUM_LABELD=10)
+aug=base, lr=0.001, lr_bert=5e-05, thr=0.99, lbd=0.5, mu=6
+aug=sim, lr=0.001, lr_bert=5e-05, thr=0.99, lbd=0.5, mu=6
