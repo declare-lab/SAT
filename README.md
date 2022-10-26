@@ -1,5 +1,5 @@
 # SAT: Improving Semi-Supervised Text Classification with Simple Instance-Adaptive Self-Training
-This repository contains the official implementation code of the EMNLP 2022 Findings short paper "SAT: Improving Semi-Supervised Text Classification with Simple Instance-Adaptive Self-Training".
+This repository contains the official implementation code of the EMNLP 2022 Findings short paper [SAT: Improving Semi-Supervised Text Classification with Simple Instance-Adaptive Self-Training](https://arxiv.org/pdf/2210.12653v1.pdf).
 
 
 ## Usage
