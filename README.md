@@ -19,5 +19,22 @@ bash run.sh
 ```
 The parameters.txt shows a list of hyper-parameters.
 
+## Citation
+Please cite our paper if you find our work useful for your research:
+```bibtex
+@inproceedings{chen-etal-2022-sat,
+    title = "{SAT}: Improving Semi-Supervised Text Classification with Simple Instance-Adaptive Self-Training",
+    author = "Chen, Hui  and  Han, Wei  and  Poria, Soujanya",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.456",
+    pages = "6141--6146",
+}
+
+```
+
 ## Contact
 Should you have any questions, feel free to contact [chchenhui1996@gmail.com](chchenhui1996@gmail.com).
